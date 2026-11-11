@@ -1,6 +1,6 @@
 ﻿namespace ProjectManagementSystem.Domain.Entities;
 
-public class TaskStatus
+public class taskStatus
 {
     public Guid Id { get; set; } = Guid.NewGuid();
     public Guid ProjectId { get; set; }
