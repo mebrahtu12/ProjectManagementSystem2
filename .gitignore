@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build files
+bin/
+obj/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# User-specific files
+*.user
+*.sln.docstates
